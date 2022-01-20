@@ -1,0 +1,19 @@
+{
+  "name": "Proj01",
+  "version": "1.0.0",
+  "description": "Projeto 01 NJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Projeto",
+    "01",
+    "NJS"
+  ],
+  "author": "Ramses Caldas",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "js-base64": "~2.5.2"
+  }
+}
